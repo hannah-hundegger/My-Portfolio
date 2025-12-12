@@ -20,7 +20,7 @@ This repository contains my selected case studies and analyses. Each case study 
 Click on each folder to explore the analysis, code and results!
 
 
-I enjoy taking a direct and creative approach to solving real-wrold problems. I believe in making data transparent, approachable and fun to work with!
+I enjoy taking a direct and creative approach to solving real-world problems. I believe in making data transparent, approachable and fun to work with!
 
 
 
