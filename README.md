@@ -1,42 +1,39 @@
-## My-Portfolio 
----
-Welcome to my Data Analysis portfolio!
+# Cyclistic Bike-Share Usage Analysis
 
-I'm Hannah, a data enthusiast from Germany, passionate about turning data into actionable insights and diving deep into all of those interesting datasets.
+## Objective
+Analyzing historical bike-share usage data (2019/20) to identify behavioral differences
+between casual riders and annual members and derive insights that can support
+membership growth strategies.
 
+## Business Question
+How do annual members and casual riders use Cyclistic bikes differently?
 
+## Data
+- **Source:** Public Divvy bike-share datasets (2019 Q1 and 2020 Q1)
+- **Raw data:** 
+- **Cleaned data:** 
 
-### **Portfolio overview**
----
+The data consists of anonymized trip-level records, including:
+- ride start and end timestamps
+- ride duration
+- user type (casual or member)
+- station information
 
-This repository contains my selected case studies and analyses. Each case study inclues the codes, visualisations, as well as the raw and processed datasets.
+No personally identifiable information is included.
 
+## Tools and Methods
+- **SQL:** data cleaning, aggregation, and feature creation
+- **R:** exploratory analysis and data visualization
+- **R Markdown:** documentation of analysis workflow and results
 
+## Key analytical steps:
+- removal of invalid or inconsistent records
+- calculation of ride duration and day-of-week features
+- aggregation of usage patterns by user type and time dimension
+- visualization of behavioral differences
 
-### **Case Studies:**
----
-- How does a bike-share navigate speedy success?
+## Key Findings
 
-Click on each folder to explore the analysis, code and results!
-
-
-I enjoy taking a direct and creative approach to solving real-world problems. I believe in making data transparent, approachable and fun to work with!
-
-
-
-### **How to use**
----
-- Open **R Markdown files** (.rmd) to see the code, as well as descriptions and the workflow.
-- Render **HTML** or **Markdown** outputs for clean, readable reports
-- Datasets are in **'' (original)** and **''(cleaned for analysis)**
-
-
-### **License**
----
-- code(mostly in R) -> MIT License
-- Case studies, visualizations, and reports – Creative Commons BY-NC-ND (CC BY-NC-ND)
-
-
-
+## Recommendations
 
 
