@@ -9,20 +9,12 @@ membership growth strategies.
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Data
-- **Source:** Public Divvy bike-share datasets (2019 Q1 and 2020 Q1)
-- Raw data files are not included due to size limitations.
-  They can be downloaded from the public Divvy trip data source.
-  The Data has been made available by Motivate International Inc. 
 
-The data consists of anonymized trip-level records, including:
-- ride start and end timestamps
-- ride duration
-- user type (casual or member)
-- station information
+Trip-level data for 2019 and 2020 were obtained from the public Divvy bike-share dataset. Raw data files are not included due to size limitations. Minimal preprocessing was performed to standardize datetime formats and ensure consistency before importing into SQL for further cleaning and aggregation.
 
-No personally identifiable information is included.
 
 ## Tools and Methods
+-**Google Sheets:** preprocessing, initial calculations
 - **SQL:** data cleaning, aggregation, and feature creation
 - **R:** exploratory analysis and data visualization
 - **R Markdown:** documentation of analysis workflow and results
