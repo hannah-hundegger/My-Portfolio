@@ -10,8 +10,9 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Data
 - **Source:** Public Divvy bike-share datasets (2019 Q1 and 2020 Q1)
-- **Raw data:** 
-- **Cleaned data:** 
+- Raw data files are not included due to size limitations.
+  They can be downloaded from the public Divvy trip data source.
+  The Data has been made available by Motivate International Inc. 
 
 The data consists of anonymized trip-level records, including:
 - ride start and end timestamps
