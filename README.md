@@ -11,6 +11,8 @@ How do annual members and casual riders use Cyclistic bikes differently?
 ## Data
 
 Trip-level data for 2019 and 2020 were obtained from the public Divvy bike-share dataset. Raw data files are not included due to size limitations. Minimal preprocessing was performed to standardize datetime formats and ensure consistency before importing into SQL for further cleaning and aggregation.
+Details about the data source, schema, and preprocessing steps are documented here:  
+[Data & preprocessing documentation](data-new/README.md)
 
 
 ## Tools and Methods
